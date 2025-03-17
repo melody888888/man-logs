@@ -1,0 +1,728 @@
+/rdsdbbin/oscar/bin/mysqld, Version: 8.0.32 (Source distribution). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
+# Time: 2025-03-10T02:00:02.083904Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7302698
+# Query_time: 0.517506  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335020
+use vsaas_account_pr;
+SET timestamp=1741572001;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'ab5e381a4e08852e75d8d0a7a8a007d0c0464115';
+# Time: 2025-03-10T02:00:02.618819Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.130]  Id: 7302743
+# Query_time: 0.526575  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572002;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '6f9390e011418878a79672022a2fbad7fac60ef3';
+# Time: 2025-03-10T02:00:03.207662Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7302726
+# Query_time: 0.579740  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572002;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'ce43c0b0c089dc49cf6e9d834b7d39d0ab5cc27d';
+# Time: 2025-03-10T02:00:03.786279Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7290321
+# Query_time: 0.567941  Lock_time: 0.000012 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572003;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '6b7f10913ca58d9e8bf1ce19d25cacbbb5e047bb';
+# Time: 2025-03-10T02:00:04.364566Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.119]  Id: 7302678
+# Query_time: 0.570273  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572003;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '7332cf794bb4c721bcaae35b7079beb81acb511c';
+# Time: 2025-03-10T02:00:04.903380Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297879
+# Query_time: 0.527719  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572004;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '095ac09d6633a197ac6c90af06fd20c3e029dfc0';
+# Time: 2025-03-10T02:00:05.457636Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.119]  Id: 7302676
+# Query_time: 0.546207  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572004;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'd1f1c1bf84bf30b0a8bffa9e101c0af6033c7c23';
+# Time: 2025-03-10T02:00:06.020851Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7302726
+# Query_time: 0.557528  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572005;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '6e8525d286e48c28b68d8274d506b07940fc7bfb';
+# Time: 2025-03-10T02:00:06.550264Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.7]  Id: 7297843
+# Query_time: 0.518362  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572006;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'aec5bc6402b542233fd397aa453f0d11c042099e';
+# Time: 2025-03-10T02:00:07.075380Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7302891
+# Query_time: 0.518502  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572006;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'bc5ae7a757976837344743d6837eedc4dabb2a7b';
+# Time: 2025-03-10T02:00:07.596087Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.119]  Id: 7302678
+# Query_time: 0.514915  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572007;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '76ad9936580fb59efef320d539999c64aa81a4d5';
+# Time: 2025-03-10T02:00:08.175437Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7302726
+# Query_time: 0.573109  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572007;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'b6fc0d5e1dd05344f637bf42408f9d1c51424d17';
+# Time: 2025-03-10T02:00:08.691954Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.119]  Id: 7302678
+# Query_time: 0.507881  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572008;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '94d14e48c0106c30af2b72a656a4e78328618d5e';
+# Time: 2025-03-10T02:00:09.271456Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7290321
+# Query_time: 0.572596  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572008;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '34e38f0aa800e4f10d8d290743b677167b2552dd';
+# Time: 2025-03-10T02:00:09.796249Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.7]  Id: 7297919
+# Query_time: 0.516392  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335020
+SET timestamp=1741572009;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'fd0b1f6b775870b529eb60c0fdf6538c34d932f2';
+# Time: 2025-03-10T02:00:27.198584Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.125]  Id: 7292861
+# Query_time: 0.631760  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335022
+SET timestamp=1741572026;
+UPDATE `t_user_login_id` SET `status`=0,`updated_at`='2025-03-10 02:00:26.565572981' WHERE login_id = '0ba7de87-ddb3-42a8-a360-1360db2797d2' and user_id = 'fbf418c9a030bfbd83afe192bf7c5a29aa280883' and app_id = 'eufy_mega';
+# Time: 2025-03-10T02:07:20.381746Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297900
+# Query_time: 0.560967  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335086
+SET timestamp=1741572439;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_security' and user_id = 'f472a35761f9ea017dac31f0f6d08af15696811f';
+# Time: 2025-03-10T02:10:08.314308Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297879
+# Query_time: 0.521948  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335106
+SET timestamp=1741572607;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_security' and user_id = '173fa1cc88147a548a95c9facd6d961241191670';
+# Time: 2025-03-10T02:10:08.836514Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.130]  Id: 7302671
+# Query_time: 1.001964  Lock_time: 0.482189 Rows_sent: 0  Rows_examined: 335106
+SET timestamp=1741572607;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '173fa1cc88147a548a95c9facd6d961241191670';
+# Time: 2025-03-10T02:12:38.743483Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.119]  Id: 7302678
+# Query_time: 0.947674  Lock_time: 0.000002 Rows_sent: 1  Rows_examined: 2239142
+SET timestamp=1741572757;
+SELECT count(*) FROM `t_auth_user` WHERE app_id = 'eufy_home';
+# Time: 2025-03-10T02:13:00.677511Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.194]  Id: 7303340
+# Query_time: 0.577756  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335128
+SET timestamp=1741572780;
+UPDATE `t_user_login_id` SET `status`=0,`updated_at`='2025-03-10 02:13:00.097789907' WHERE login_id = '11c241f2-ea01-47e2-a1ec-e857b507ad9e' and user_id = '44fdc2d0932a5c0d1f2d26bf98f4a262eebe6f80' and app_id = 'eufy_mega';
+# Time: 2025-03-10T02:14:05.303083Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.119]  Id: 7302711
+# Query_time: 0.512620  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335134
+SET timestamp=1741572844;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_security' and user_id = '3d5cfbd368897eb8087aa2575b20dc7903fede7c';
+# Time: 2025-03-10T02:14:05.829738Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7302679
+# Query_time: 1.001026  Lock_time: 0.475895 Rows_sent: 0  Rows_examined: 335134
+SET timestamp=1741572844;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '3d5cfbd368897eb8087aa2575b20dc7903fede7c';
+# Time: 2025-03-10T02:14:06.337996Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7302669
+# Query_time: 1.024768  Lock_time: 0.518141 Rows_sent: 0  Rows_examined: 335135
+SET timestamp=1741572845;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_pet' and user_id = '3d5cfbd368897eb8087aa2575b20dc7903fede7c';
+# Time: 2025-03-10T02:14:06.894684Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297879
+# Query_time: 1.054438  Lock_time: 0.499805 Rows_sent: 0  Rows_examined: 335135
+SET timestamp=1741572845;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_care' and user_id = '3d5cfbd368897eb8087aa2575b20dc7903fede7c';
+# Time: 2025-03-10T02:15:39.336907Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7302679
+# Query_time: 0.523947  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335146
+SET timestamp=1741572938;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_security' and user_id = 'd76116e33e20746d805783a3b0f80b2bec1b10ad';
+# Time: 2025-03-10T02:15:39.855245Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.130]  Id: 7302680
+# Query_time: 1.029423  Lock_time: 0.512734 Rows_sent: 0  Rows_examined: 335146
+SET timestamp=1741572938;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'd76116e33e20746d805783a3b0f80b2bec1b10ad';
+# Time: 2025-03-10T02:17:51.020639Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.7]  Id: 7297919
+# Query_time: 0.502599  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335170
+SET timestamp=1741573070;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '94d7cc8b470227e5d05bf75e6d224dbe757983e0';
+# Time: 2025-03-10T02:19:12.893860Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.125]  Id: 7303412
+# Query_time: 0.526031  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335180
+SET timestamp=1741573152;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '4cc9cddbd3a97a523b0aaae0f7af353dc2d44b4b';
+# Time: 2025-03-10T02:20:39.195626Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7305045
+# Query_time: 0.543054  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335191
+SET timestamp=1741573238;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '140212e810f360c1e7102b233e4e91858e772183';
+# Time: 2025-03-10T02:21:28.568017Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7302679
+# Query_time: 0.544683  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335195
+SET timestamp=1741573288;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_security' and user_id = 'a12f77b9aaf45bd7d18a846714f21fd4d33aecc9';
+# Time: 2025-03-10T02:21:29.098964Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297891
+# Query_time: 1.011324  Lock_time: 0.481994 Rows_sent: 0  Rows_examined: 335195
+SET timestamp=1741573288;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'a12f77b9aaf45bd7d18a846714f21fd4d33aecc9';
+# Time: 2025-03-10T02:21:54.042437Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.7]  Id: 7297899
+# Query_time: 0.551393  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335194
+SET timestamp=1741573313;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'debfea4ee1a64aacade68f943d8c9f5dba5370e7';
+# Time: 2025-03-10T02:22:39.210417Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.130]  Id: 7302671
+# Query_time: 0.555550  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335201
+SET timestamp=1741573358;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_home' and user_id = '3053bd48d199b9850626f05ae0d14f765bf6a7b1';
+# Time: 2025-03-10T02:22:56.490701Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.194]  Id: 7303091
+# Query_time: 0.518496  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335204
+SET timestamp=1741573375;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'a3ece54a6ee03605ad66b074ac4efaeaa226b97a';
+# Time: 2025-03-10T02:25:17.163925Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7305110
+# Query_time: 0.540001  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335223
+SET timestamp=1741573516;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'd1ccd9c176f8ae0fc88ad8e03af7e0bd745ce825';
+# Time: 2025-03-10T02:25:55.051060Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7302237
+# Query_time: 0.509339  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335225
+SET timestamp=1741573554;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_security' and user_id = 'f2f4840422a7f7849176620cffc8a9498e29271f';
+# Time: 2025-03-10T02:25:55.578982Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7303592
+# Query_time: 1.003829  Lock_time: 0.477913 Rows_sent: 0  Rows_examined: 335225
+SET timestamp=1741573554;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'f2f4840422a7f7849176620cffc8a9498e29271f';
+# Time: 2025-03-10T02:26:17.962053Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297834
+# Query_time: 0.514757  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335226
+SET timestamp=1741573577;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'd4a63f73deb179ab99138687bac6f96d72ea8f0e';
+# Time: 2025-03-10T02:26:40.848637Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7305045
+# Query_time: 0.511055  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335230
+SET timestamp=1741573600;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'f6c47faeed14a1150259c8390ba61ef971338186';
+# Time: 2025-03-10T02:28:38.791289Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.125]  Id: 7293047
+# Query_time: 0.501727  Lock_time: 0.000018 Rows_sent: 0  Rows_examined: 335248
+SET timestamp=1741573718;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'eb4da1cf0064b72c81b5630302392f72e4138dd8';
+# Time: 2025-03-10T02:29:58.770182Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297891
+# Query_time: 0.529295  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335262
+SET timestamp=1741573798;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'b0c5eaf64163a03c8b3536d8325a674917877895';
+/rdsdbbin/oscar/bin/mysqld, Version: 8.0.32 (Source distribution). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
+# Time: 2025-03-10T02:31:42.972683Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7302686
+# Query_time: 0.516029  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335281
+use vsaas_account_pr;
+SET timestamp=1741573902;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'ce3846163e9b899a1ad84c2b979712941d350042';
+# Time: 2025-03-10T02:33:05.197720Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.7]  Id: 7297840
+# Query_time: 0.538725  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335295
+SET timestamp=1741573984;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '1f1e438adea1276316661544c1c283fa03bb5a32';
+# Time: 2025-03-10T02:33:18.312529Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7301169
+# Query_time: 0.573835  Lock_time: 0.573447 Rows_sent: 0  Rows_examined: 0
+use vsaas_device_pr;
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:18.440341Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306340
+# Query_time: 0.701428  Lock_time: 0.701030 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:18.743766Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7306339
+# Query_time: 1.004791  Lock_time: 1.004388 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:18.829367Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7297976
+# Query_time: 1.090092  Lock_time: 1.089691 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:18.879434Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7297973
+# Query_time: 1.140016  Lock_time: 1.139579 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:18.912135Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7297955
+# Query_time: 1.172417  Lock_time: 1.171997 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:18.940849Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7302699
+# Query_time: 1.200829  Lock_time: 1.200446 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:18.971864Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.226]  Id: 7303875
+# Query_time: 1.231961  Lock_time: 1.231444 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:18.995991Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306348
+# Query_time: 1.255353  Lock_time: 1.255011 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.028300Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306334
+# Query_time: 1.283634  Lock_time: 1.283231 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.052962Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306338
+# Query_time: 1.307852  Lock_time: 1.307488 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.078778Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.226]  Id: 7303717
+# Query_time: 1.329280  Lock_time: 1.328856 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.098762Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7297982
+# Query_time: 1.338740  Lock_time: 1.338361 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.115599Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7301172
+# Query_time: 1.344911  Lock_time: 1.344526 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.131623Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7306342
+# Query_time: 1.210047  Lock_time: 1.209669 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.143346Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306337
+# Query_time: 1.219462  Lock_time: 1.219014 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.156305Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7305299
+# Query_time: 1.222382  Lock_time: 1.220992 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.165223Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7303000
+# Query_time: 1.230382  Lock_time: 1.229361 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.176563Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7303418
+# Query_time: 1.240773  Lock_time: 1.237733 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.182956Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7302704
+# Query_time: 1.241265  Lock_time: 1.240270 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.187351Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.226]  Id: 7303722
+# Query_time: 1.232835  Lock_time: 1.232445 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.191494Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7297970
+# Query_time: 1.226820  Lock_time: 1.226426 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.197194Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306346
+# Query_time: 1.225986  Lock_time: 1.225549 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.201631Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7297972
+# Query_time: 1.207626  Lock_time: 1.207227 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573997;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.204374Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306335
+# Query_time: 1.191392  Lock_time: 1.190999 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.206817Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7305509
+# Query_time: 1.106817  Lock_time: 1.106338 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.208960Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7305710
+# Query_time: 1.109268  Lock_time: 1.108044 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.210864Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7297981
+# Query_time: 1.110003  Lock_time: 1.109632 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.212620Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7297967
+# Query_time: 1.111723  Lock_time: 1.111324 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.214092Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7297974
+# Query_time: 1.110833  Lock_time: 1.108720 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.216128Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7303206
+# Query_time: 1.112664  Lock_time: 1.110432 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.217339Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7303205
+# Query_time: 1.113884  Lock_time: 1.111621 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.218205Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7304097
+# Query_time: 1.114366  Lock_time: 1.111995 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.220239Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7301168
+# Query_time: 1.115929  Lock_time: 1.114547 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.220944Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7302701
+# Query_time: 1.115938  Lock_time: 1.115253 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.225883Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7297969
+# Query_time: 1.120755  Lock_time: 1.119079 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.226756Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.226]  Id: 7303716
+# Query_time: 1.121551  Lock_time: 1.121054 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.227905Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7302700
+# Query_time: 1.122658  Lock_time: 1.122196 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.229480Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.226]  Id: 7303910
+# Query_time: 1.124614  Lock_time: 1.123797 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.230541Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306369
+# Query_time: 1.109924  Lock_time: 1.109451 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.231591Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7297966
+# Query_time: 1.110154  Lock_time: 1.109771 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.232419Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7305301
+# Query_time: 1.110118  Lock_time: 1.109675 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.233234Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7297957
+# Query_time: 1.106245  Lock_time: 1.105818 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.234433Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7297959
+# Query_time: 1.103593  Lock_time: 1.102736 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.235513Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7297968
+# Query_time: 1.102221  Lock_time: 1.101503 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573997,1,1597478),('T8L0281024277E92','50002','50',0,1741573997,1,1597479),('T8L0281024277E92','50003','0',0,1741573997,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.236732Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7306405
+# Query_time: 1.093092  Lock_time: 1.091782 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.237563Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7306408
+# Query_time: 1.093742  Lock_time: 1.093138 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.238368Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306404
+# Query_time: 1.094122  Lock_time: 1.093770 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.239664Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7306409
+# Query_time: 1.095306  Lock_time: 1.094757 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.240412Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7306411
+# Query_time: 1.095069  Lock_time: 1.094702 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.241481Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7306410
+# Query_time: 1.095942  Lock_time: 1.095231 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.242168Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306407
+# Query_time: 1.096118  Lock_time: 1.095732 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.243282Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7306420
+# Query_time: 1.096687  Lock_time: 1.096246 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.244104Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306406
+# Query_time: 1.097025  Lock_time: 1.096620 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.245268Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306412
+# Query_time: 1.097088  Lock_time: 1.096680 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.246720Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306417
+# Query_time: 1.097489  Lock_time: 1.096770 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.247840Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306418
+# Query_time: 1.097915  Lock_time: 1.097462 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.248867Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306416
+# Query_time: 1.099495  Lock_time: 1.098520 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.250058Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7306414
+# Query_time: 1.099856  Lock_time: 1.099406 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.250817Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7306419
+# Query_time: 1.100480  Lock_time: 1.100098 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.252096Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7306415
+# Query_time: 1.101589  Lock_time: 1.101185 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.252788Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7306426
+# Query_time: 1.097136  Lock_time: 1.096800 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.253497Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7306425
+# Query_time: 1.077252  Lock_time: 1.076735 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.254763Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306427
+# Query_time: 1.069872  Lock_time: 1.069498 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.255838Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306428
+# Query_time: 1.056298  Lock_time: 1.055931 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.256823Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.226]  Id: 7306430
+# Query_time: 1.044546  Lock_time: 1.044168 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.257932Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7306432
+# Query_time: 1.036995  Lock_time: 1.036638 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.258647Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7306435
+# Query_time: 1.025956  Lock_time: 1.025522 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.259240Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.61.141]  Id: 7306440
+# Query_time: 1.018986  Lock_time: 1.018632 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.259930Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306437
+# Query_time: 1.002334  Lock_time: 1.001724 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.260999Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7306434
+# Query_time: 0.995810  Lock_time: 0.995426 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.262090Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.78]  Id: 7306436
+# Query_time: 0.987156  Lock_time: 0.986222 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.263142Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7306529
+# Query_time: 0.940133  Lock_time: 0.939764 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.263841Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306528
+# Query_time: 0.936842  Lock_time: 0.936377 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.265135Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7306533
+# Query_time: 0.937331  Lock_time: 0.936940 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.265977Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7306537
+# Query_time: 0.938101  Lock_time: 0.937321 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.267224Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306531
+# Query_time: 0.937415  Lock_time: 0.936645 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.268306Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.58.225]  Id: 7306539
+# Query_time: 0.933563  Lock_time: 0.933183 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.269350Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.39]  Id: 7306543
+# Query_time: 0.932394  Lock_time: 0.931993 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.271008Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.20]  Id: 7306599
+# Query_time: 0.867146  Lock_time: 0.866730 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:33:19.271707Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.63.73]  Id: 7306601
+# Query_time: 0.867333  Lock_time: 0.866782 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1741573998;
+INSERT INTO `t_device_param` (`device_sn`,`param_name`,`param_value`,`create_time`,`update_time`,`status`,`id`) VALUES ('T8L0281024277E92','50001','100',0,1741573998,1,1597478),('T8L0281024277E92','50002','50',0,1741573998,1,1597479),('T8L0281024277E92','50003','0',0,1741573998,1,1597480) ON DUPLICATE KEY UPDATE `param_value`=VALUES(param_value),`update_time`=VALUES(update_time);
+# Time: 2025-03-10T02:34:23.742163Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7307661
+# Query_time: 0.509238  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335304
+use vsaas_account_pr;
+SET timestamp=1741574063;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'cb16aa87bdcee6e7856eb56ff3df84e3a5006ed0';
+# Time: 2025-03-10T02:35:09.735035Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.130]  Id: 7307826
+# Query_time: 0.538129  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335313
+SET timestamp=1741574109;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_security' and user_id = '779d44c0c0fb9b6cef9bcd3c53e29aa6236d795e';
+# Time: 2025-03-10T02:35:10.253349Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7307352
+# Query_time: 1.011821  Lock_time: 0.494877 Rows_sent: 0  Rows_examined: 335313
+SET timestamp=1741574109;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '779d44c0c0fb9b6cef9bcd3c53e29aa6236d795e';
+# Time: 2025-03-10T02:35:44.025804Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7306847
+# Query_time: 0.544486  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335315
+SET timestamp=1741574143;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '8de0961e9ea74768daaf7896256c11236689539d';
+# Time: 2025-03-10T02:35:47.583469Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.130]  Id: 7307826
+# Query_time: 0.519491  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335315
+SET timestamp=1741574147;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '0a356b4bb6f43043285d70c10f10d7c2a977ef1e';
+# Time: 2025-03-10T02:36:52.483135Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7306402
+# Query_time: 0.523078  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335326
+SET timestamp=1741574211;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '6d3d360fb5ee7cbfc5d457416be511472c8d9ce3';
+# Time: 2025-03-10T02:40:42.312727Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.194]  Id: 7307307
+# Query_time: 0.586761  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335349
+SET timestamp=1741574441;
+UPDATE `t_user_login_id` SET `status`=0,`updated_at`='2025-03-10 02:40:41.723816735' WHERE login_id = 'e64418d5-c437-45d2-ba82-baad238ee660' and user_id = '10439024890282ddf02e31fe71c02eaf093f9109' and app_id = 'eufy_mega';
+# Time: 2025-03-10T02:40:58.008367Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.217]  Id: 7307700
+# Query_time: 0.528951  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335351
+SET timestamp=1741574457;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_life' and user_id = '1b1dca6154936552c758b58aacb5fe30d113ee8f';
+# Time: 2025-03-10T02:43:48.922161Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297834
+# Query_time: 0.503708  Lock_time: 0.000001 Rows_sent: 0  Rows_examined: 335369
+SET timestamp=1741574628;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'dd8f9c28632c47e9ae1123a7539cce4ccb0d941b';
+# Time: 2025-03-10T02:43:49.455076Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.7]  Id: 7307304
+# Query_time: 1.019018  Lock_time: 0.488047 Rows_sent: 0  Rows_examined: 335369
+SET timestamp=1741574628;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_care' and user_id = 'dd8f9c28632c47e9ae1123a7539cce4ccb0d941b';
+# Time: 2025-03-10T02:46:53.340793Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.62.138]  Id: 7308085
+# Query_time: 0.532299  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335395
+SET timestamp=1741574812;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '8bef16485d7fc31ebfc31794b7899e87a06c33bb';
+# Time: 2025-03-10T02:57:07.478667Z
+# User@Host: security_bigdata[security_bigdata] @  [10.71.250.87]  Id: 7310165
+# Query_time: 76.558899  Lock_time: 0.000002 Rows_sent: 12674218  Rows_examined: 12674218
+SET timestamp=1741575350;
+SELECT `id`,`user_id`,`os_type`,`communication_key`,`open_udid`,`phone_model`,`model_type`,`token`,`expiration_at`,`created_at`,`updated_at`,`status`,`kicked_out_at`,`logout_at`,`refresh_at`,`secret`,`app_id`,`login_type`,`app_version`,`country` FROM `vsaas_account_pr`.`t_user_login_info`;
+# Time: 2025-03-10T02:59:20.351382Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7297900
+# Query_time: 0.540739  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335481
+SET timestamp=1741575559;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_security' and user_id = '69285bd2df2ea86577b4d2de3f1815cadd6aa0d3';
+# Time: 2025-03-10T02:59:20.873539Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7307187
+# Query_time: 1.030907  Lock_time: 0.510440 Rows_sent: 0  Rows_examined: 335481
+SET timestamp=1741575559;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_home' and user_id = '69285bd2df2ea86577b4d2de3f1815cadd6aa0d3';
+# Time: 2025-03-10T02:59:21.413744Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.57.7]  Id: 7297919
+# Query_time: 1.052231  Lock_time: 0.517149 Rows_sent: 0  Rows_examined: 335482
+SET timestamp=1741575560;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '69285bd2df2ea86577b4d2de3f1815cadd6aa0d3';
+/rdsdbbin/oscar/bin/mysqld, Version: 8.0.32 (Source distribution). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
+# Time: 2025-03-10T03:00:00.837608Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.59.203]  Id: 7306847
+# Query_time: 0.538661  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335491
+use vsaas_account_pr;
+SET timestamp=1741575600;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = '173fa1cc88147a548a95c9facd6d961241191670';
+/rdsdbbin/oscar/bin/mysqld, Version: 8.0.32 (Source distribution). started with:
+Tcp port: 3306  Unix socket: /tmp/mysql.sock
+Time                 Id Command    Argument
+# Time: 2025-03-10T03:00:01.402665Z
+# User@Host: aiot_pr[aiot_pr] @  [10.66.60.130]  Id: 7307686
+# Query_time: 0.557785  Lock_time: 0.000002 Rows_sent: 0  Rows_examined: 335491
+use vsaas_account_pr;
+SET timestamp=1741575600;
+DELETE FROM `t_user_login_id` WHERE app_id = 'eufy_mega' and user_id = 'd76116e33e20746d805783a3b0f80b2bec1b10ad';
